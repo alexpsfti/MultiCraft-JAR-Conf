@@ -56,7 +56,7 @@ return array (
   'Automatically save server form on JAR file change' => 'Sauvegarder automatiquement le formulaire de changement de fichier JAR',
   'Autosave Interval (0 to disable)' => 'Intervalle de sauvegarde automatique (0 pour désactiver)',
   'Average players per server' => 'Moyenne des joueurs par serveur',
-  'Average servers per daemon' => 'Moyenne des joueur par démon',
+  'Average servers per daemon' => 'Moyenne des joueurs par démon',
   'Back' => 'Précédent',
   'Base server port to use on new IPs' => 'Port serveur de base à utiliser pour les prochaines adresses',
   'Block special characters in chat' => 'Bloquer les caractères spéciaux dans le chat',
