@@ -34,7 +34,7 @@ return array (
   'A new server has been assigned to you! You can control and edit it here:' => 'un nouveau serveur vous à été assigné ! Vous pouvez le contrôler et l\'éditer ici :',
   'A password reset has been requested for your Multicraft account at {url}.' => 'Un reset mot de passe à été demandé pour votre compte Multicraft à l\'adresse {url}.',
   'A password reset link has been sent to your email address.' => 'Un lien de reset mot de passe à été envoyé à votre adresse mail.',
-  'A selection will be shown as soon as the server has been created' => 'Une selection sera montrée dès que le serveur aura été créé',
+  'A selection will be shown as soon as the server has been created' => 'Une sélection sera affichée dès que le serveur aura été créé',
   'API Key' => 'Clé API',
   'API key deleted.' => 'Clé API supprimée avec succès',
   'About' => 'A propos',
