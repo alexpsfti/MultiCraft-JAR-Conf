@@ -561,7 +561,7 @@ Pressing cancel will only change the daemon ID setting without moving any files.
   'Start this server automatically when Multicraft restarts' => 'Démarrer ce serveur automatiquement quand Multicraft redémarre',
   'Startup Memory' => 'Mémoire allouée au démarrage',
   'Startup Parameters' => 'Paramètres de démarrage',
-  'Status' => 'Etat',
+  'Status' => 'Statut',
   'Stay logged in' => 'Rester connecter',
   'Stop' => 'Arrêter',
   'Stop if Empty' => 'Arrêter si vide',
