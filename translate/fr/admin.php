@@ -202,7 +202,7 @@ return array (
   'Restrict API IPs' => 'Limiter les IP d\'accès API',
   'Restrict Administrator IPs' => 'Limiter les IP administrateur',
   'Restrict Staff IPs' => 'Limiter les IP équipe',
-  'Resume' => 'réhabiliter',
+  'Resume' => 'Réhabiliter',
   'Running Servers' => 'Serveurs en fonctionnement',
   'Save' => 'Sauvegarder',
   'Save player information (ip, lastseen, etc.)' => 'Sauvegarder les informations joueurs (IP, vu pour la dernière fois, etc.)',
