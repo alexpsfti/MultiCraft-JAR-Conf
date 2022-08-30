@@ -92,7 +92,7 @@ return array (
   'Default server IP' => 'IP serveur par défaut',
   'Default server name' => 'Nom de serveur par défaut',
   'Deleted {del} player entries.' => 'Supprimer {del} les entrées joueurs.',
-  'Deletes all players that have the same role as the Default Role of their server' => 'Supprimes tous les joueurs ayant le même rôle que le rôle par défaut de leur serveur',
+  'Deletes all players that have the same role as the Default Role of their server' => 'Supprime tous les joueurs ayant le même rôle que le rôle par défaut de leur serveur',
   'Disable AJAX updates' => 'Désactiver les mises à jour AJAX',
   'Disable User Registration' => 'Désactiver l\'inscription utilisateur',
   'Disable template setup functionality' => 'Désactiver la fonction de profil d\'installation',
